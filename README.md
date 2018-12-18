@@ -1,11 +1,11 @@
 # clients
-> [Telegram] clients patch by NebulaChat
+> [Telegram](https://telegram.org) clients patch by NebulaChat
 
-[Android client for telegramd](Telegram-Android)
+[Android client for NebulaChat](Telegram-Android)
 
-[FOSS client for telegramd](Telegram-FOSS)
+[FOSS client for NebulaChat](Telegram-FOSS)
 
-[iOS client for telegramd](Telegram-iOS)
+[iOS client for NebulaChat](Telegram-iOS)
 
-[tdesktop for telegramd](tdesktop)
+[tdesktop for NebulaChat](tdesktop)
 
