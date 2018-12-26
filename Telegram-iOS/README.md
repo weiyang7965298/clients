@@ -3,7 +3,7 @@
 
 ## Install
 
-- Get *[TelegramAndroid](https://github.com/peter-iakovlev/Telegram)* source code
+- Get *[Telegram-iOS](https://github.com/peter-iakovlev/Telegram)* source code
 
 - patch
 ```
